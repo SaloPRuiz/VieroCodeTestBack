@@ -1,0 +1,11 @@
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\bin\Debug\net7.0\VieroCodeTest.Domain.Application.deps.json
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\bin\Debug\net7.0\VieroCodeTest.Domain.Application.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\bin\Debug\net7.0\VieroCodeTest.Domain.Application.pdb
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\VieroCodeTest.Domain.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\VieroCodeTest.Domain.Application.AssemblyInfoInputs.cache
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\VieroCodeTest.Domain.Application.AssemblyInfo.cs
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\VieroCodeTest.Domain.Application.csproj.CoreCompileInputs.cache
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\VieroCodeTest.Domain.Application.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\refint\VieroCodeTest.Domain.Application.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\VieroCodeTest.Domain.Application.pdb
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Domain.Application\obj\Debug\net7.0\ref\VieroCodeTest.Domain.Application.dll

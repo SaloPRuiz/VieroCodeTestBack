@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.WebApi\\VieroCodeTest.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Domain.Application\\VieroCodeTest.Domain.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Domain.Application\\VieroCodeTest.Domain.Application.csproj",
+        "projectName": "VieroCodeTest.Domain.Application",
+        "projectPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Domain.Application\\VieroCodeTest.Domain.Application.csproj",
+        "packagesPath": "C:\\Users\\star_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Domain.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\star_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Infra.Data\\VieroCodeTest.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Infra.Data\\VieroCodeTest.Infra.Data.csproj",
+        "projectName": "VieroCodeTest.Infra.Data",
+        "projectPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Infra.Data\\VieroCodeTest.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\star_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\star_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Domain.Application\\VieroCodeTest.Domain.Application.csproj": {
+                "projectPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Domain.Application\\VieroCodeTest.Domain.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.WebApi\\VieroCodeTest.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.WebApi\\VieroCodeTest.WebApi.csproj",
+        "projectName": "VieroCodeTest.WebApi",
+        "projectPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.WebApi\\VieroCodeTest.WebApi.csproj",
+        "packagesPath": "C:\\Users\\star_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\star_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Infra.Data\\VieroCodeTest.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest.Infra.Data\\VieroCodeTest.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

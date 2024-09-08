@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest\\VieroCodeTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest\\VieroCodeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest\\VieroCodeTest.csproj",
+        "projectName": "VieroCodeTest",
+        "projectPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest\\VieroCodeTest.csproj",
+        "packagesPath": "C:\\Users\\star_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\star_\\RiderProjects\\VieroCodeTest\\VieroCodeTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\star_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.sreasons.com/repository/SmartReasonsNuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\bin\Debug\net7.0\VieroCodeTest.Infra.Data.deps.json
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\bin\Debug\net7.0\VieroCodeTest.Infra.Data.runtimeconfig.json
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\bin\Debug\net7.0\VieroCodeTest.Infra.Data.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\bin\Debug\net7.0\VieroCodeTest.Infra.Data.pdb
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.AssemblyInfo.cs
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\refint\VieroCodeTest.Infra.Data.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.pdb
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.genruntimeconfig.cache
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\ref\VieroCodeTest.Infra.Data.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\bin\Debug\net7.0\VieroCodeTest.Domain.Application.dll
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\bin\Debug\net7.0\VieroCodeTest.Domain.Application.pdb
+C:\Users\star_\RiderProjects\VieroCodeTest\VieroCodeTest.Infra.Data\obj\Debug\net7.0\VieroCodeTest.Infra.Data.csproj.CopyComplete
